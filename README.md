@@ -1,7 +1,7 @@
 # credit_card_fraud
 In this project I tried the create the machine learning model for detect the credit card fraud detection.
 
-# Whcih library is required.
+# Which library is required.
 1.pandas
 2.numpy
 3.matpotlib
