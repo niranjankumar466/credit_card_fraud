@@ -1,0 +1,10 @@
+1.pandas 
+2.numpy 
+3.matpotlib
+4.seaborn
+5.using imblearn import NearMiss 
+6.Train_test_split 
+7.Random Forest 
+8.Randomized SearchCV 
+9.Pickle. 
+10.Joblib.
